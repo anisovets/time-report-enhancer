@@ -1,0 +1,26 @@
+{
+    "RLHIEIS-11": "Life AD&D - Add ability to support Life AD&D in California",
+    "RLHIEIS-12": "STD and LTD - Add ability to support STD and LTD in California",
+    "RLHIEIS-13": "Group Accident for 8 States (FL, IN, MA, MO, NV, SC, NY, UT)",
+    "RLHIEIS-14": "Group Accident Eligibility Waiting Period and Portability (Continuation) Fields",
+    "RLHIEIS-19": "Pre-Orth Benefit (Interceptive)",
+    "RLHIEIS-22": "Vanishing Deductible",
+    "RLHIEIS-18": "Paid Family Leave (CO), Additional cost/state (MA, CT) (Order as of 11/2 would be MA, CT, CO)",
+    "RLHIEIS-15": "ASO Billing not applying Payment Recovery Correctly",
+    "RLHIEIS-16": "ASO Delinquency Notices on products and FICA Match Products",
+    "RLHIEIS-17": "Ability to ingest a File Feed on Self Bill Groups",
+    "RLHIEIS-21": "Provide Individual to Terminated Group Members (Letter Sent)",
+    "RLHIEIS-20": "Co-Pay (Dentist Direct)",
+    "RLHIEIS-222": "ASO Delinquency Notices on products and FICA Match Products",
+    "RLHIEIS-223": "ASO Delinquency Notices on products and FICA Match Products",
+    "RLHIEIS-314": "Pre-Orth Benefit (Interceptive)",
+    "RLHIEIS-345": "Dental Warranty",
+    "RLHIEIS-978": "Life AD&D - Add ability to support Life AD&D in California",
+    "RLHIEIS-303": "Vanishing Deductible",
+    "RLHIEIS-316": "Pre-Orth Benefit (Interceptive)",
+    "RLHIEIS-306": "Vanishing Deductible",
+    "[DN] Pre-Ortho Benefits Applied Towards Major Services/General Max instead of Ortho Max (Early Ortho)": "Pre-Orth Benefit (Interceptive)",
+    "[DN] Vanishing Deductible": "Vanishing Deductible",
+    "RLHIEIS-543": "Family/Medical Leave (FAMLI)"
+}
+
