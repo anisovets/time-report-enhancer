@@ -53,10 +53,8 @@ def write_csv(filename, list_of_dicts):
         with open(filepath, mode='w', newline='') as file:
             writer = csv.DictWriter(file, fieldnames=list_of_dicts[0].keys())
             writer.writeheader()
-
             for row in list_of_dicts:
-                writer.writerow(row)
-            
+                writer.writerow(row)            
             print('Data writing completed successfully')
     except Exception as e:
         print(f'Error writing to CSV file: {e}')
